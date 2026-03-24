@@ -37,15 +37,15 @@ An AI-powered job assistant that helps job seekers analyze job postings, tailor 
 - │ ├── jd_analyst.py
 - │ ├── resume_cl_agent.py
 - │ ├── messaging_agent.py
-│
-│── utils/
-│ └── config.py
-│
-│── orchestrator.py
-│── streamlit_app.py
-│── usajobs_api.py
-│── requirements.txt
-│── README.md
+- │
+- │── utils/
+- │ └── config.py
+- │
+- │── orchestrator.py
+- │── streamlit_app.py
+- │── usajobs_api.py
+- │── requirements.txt
+- │── README.md
 
 
 
