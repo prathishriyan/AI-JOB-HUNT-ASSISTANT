@@ -32,11 +32,11 @@ An AI-powered job assistant that helps job seekers analyze job postings, tailor 
 
 ## 📂 Project Structure
 
-AI-JOB-HUNT-ASSISTANT/
-│── agents/
-│ ├── jd_analyst.py
-│ ├── resume_cl_agent.py
-│ ├── messaging_agent.py
+- AI-JOB-HUNT-ASSISTANT/
+- │── agents/
+- │ ├── jd_analyst.py
+- │ ├── resume_cl_agent.py
+- │ ├── messaging_agent.py
 │
 │── utils/
 │ └── config.py
