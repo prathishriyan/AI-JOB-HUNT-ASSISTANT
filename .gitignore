@@ -30,3 +30,5 @@ __pycache__/
 
 # Data files
 data/
+
+.streamlit/
