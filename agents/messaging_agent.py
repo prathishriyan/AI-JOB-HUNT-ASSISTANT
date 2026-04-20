@@ -1,7 +1,7 @@
 from crewai import Agent, Task, LLM
 from utils.config import GEMINI_API_KEY
 
-# ✅ Correct LLM (CrewAI compatible)
+
 llm = LLM(
     model="gemini/gemini-2.5-flash",   # IMPORTANT format
     temperature=0.5,
