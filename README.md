@@ -2,6 +2,7 @@
 
 An AI-powered job assistant that helps job seekers analyze job postings, tailor resumes, and generate personalized outreach messages using multi-agent systems.
 
+APP : https://ai-job-hunt-assistant.streamlit.app/
 ---
 
 ## 🚀 Features
