@@ -1,8 +1,10 @@
 # 🤖 AI Job Hunt Assistant
 
 An AI-powered job assistant that helps job seekers analyze job postings, tailor resumes, and generate personalized outreach messages using multi-agent systems.
+---
+## 🚀 Live Demo
+👉 [Streamlit App](https://ai-job-hunt-assistant.streamlit.app/)
 
-APP : https://ai-job-hunt-assistant.streamlit.app/
 ---
 
 ## 🚀 Features
